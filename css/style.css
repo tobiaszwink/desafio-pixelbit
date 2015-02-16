@@ -1,0 +1,11 @@
+body {
+	background-color: #20B2AA;
+	margin-left: 450px;
+	margin-right: 450px;
+	height: 100%;
+}
+
+div#img {
+	text-align: center;
+	padding-top: 30px;
+}

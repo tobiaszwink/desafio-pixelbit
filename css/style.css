@@ -1,11 +1,77 @@
 body {
 	background-color: #20B2AA;
+	background-size: 900px;
 	margin-left: 450px;
 	margin-right: 450px;
-	height: 100%;
+
+}
+
+body h1 {
+	text-decoration: none;
+	font-family: arial;
+	padding-left: 30px;
+	padding-bottom: -20px;
+	text-align: center;
+	color: white;
+}
+body h5 {
+	text-decoration: none;
+	font-family: arial;
+	padding-left: 30px;
+	padding-top: -20px;
+	text-align: center;
 }
 
 div#img {
 	text-align: center;
 	padding-top: 30px;
 }
+
+header{
+	
+	text-align: center;
+}
+
+header p{
+	text-align: justify;
+	text-indent: 50px;
+	text-decoration: none;
+	font-family: Arial;
+	padding-bottom: 20px;
+}
+
+section {
+	border-bottom: 3px black solid;
+	position: absolute;
+	width: 410px;
+}
+
+
+div button#ttf {
+	width: 150px;
+	height: 60px;
+	background-color: white;
+	border-radius: 10px;
+	text-decoration: none;
+	color: #20B2AA;
+	display: block;
+	float: left;
+	box-shadow: 5px 5px 5px black;
+	margin-bottom: 30px;
+}
+
+div button#ln {
+	margin-left: 70px;
+	width: 150px;
+	height: 60px;
+	background-color: white;
+	border-radius: 10px;
+	text-decoration: none;
+	color: #20B2AA;
+	display: block;
+	margin-bottom: 3px solid black;
+	box-shadow: 5px 5px 5px black;
+	display: inline-block;
+	float: right;
+}
+
